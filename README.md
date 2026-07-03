@@ -34,8 +34,7 @@ This project focuses on delivering a clean user interface, smooth responsiveness
 
 ## 🌐 Live Demo
 
-Coming Soon...
-
+https://nargestohidloo.github.io/Vazin-responsive-website/
 ---
 
 

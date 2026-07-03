@@ -26,8 +26,8 @@ This project focuses on delivering a clean user interface, smooth responsiveness
 ---
 
 ## 📸 Project Preview
-<img width="1919" height="914" alt="Screenshot 2026-07-04 014957" src="https://github.com/user-attachments/assets/6b1110c6-ad65-47f1-89fe-ae68e8d423a3" />
-<img width="1919" height="912" alt="Screenshot 2026-07-04 020729" src="https://github.com/user-attachments/assets/eeb1c9cf-0ff3-469d-a8e2-4131f52afdac" />
+<img width="1919" height="913" alt="Screenshot 2026-07-04 020856" src="https://github.com/user-attachments/assets/39866864-474d-44cb-a192-412720894076" />
+<img width="1917" height="913" alt="Screenshot 2026-07-04 020844" src="https://github.com/user-attachments/assets/b29d5fc2-e771-4e55-9739-2884e01cfca5" />
 
 
 ---

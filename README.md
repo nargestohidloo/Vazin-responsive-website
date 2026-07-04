@@ -26,7 +26,7 @@ Designed with a clean user interface, smooth responsiveness, and an optimized us
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vscode" />
 </p>
 
 ---

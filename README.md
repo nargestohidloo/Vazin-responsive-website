@@ -23,7 +23,7 @@ Designed with a clean user interface, smooth responsiveness, and an optimized us
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3

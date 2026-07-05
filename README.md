@@ -33,7 +33,7 @@ Designed with a clean user interface, smooth responsiveness, and an optimized us
 
 ## 🌐 Live Demo
 
-🔗 **https://nargestohidloo.github.io/Vazin-responsive-website/**
+🔗 **https://nargestohidloo.github.io/responsive-vazin-website/**
 
 ---
 
